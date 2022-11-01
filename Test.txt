@@ -2,3 +2,4 @@ Monday1
 Tuesday
 wednesday
 thursday
+friday
