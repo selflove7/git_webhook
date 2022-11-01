@@ -3,3 +3,6 @@ Tuesday
 wednesday
 thursday
 friday
+Saturday
+Sunday
+
